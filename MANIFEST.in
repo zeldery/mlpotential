@@ -1,0 +1,11 @@
+graft tests
+graft src
+
+include script/sub/*
+include script/train/*
+include script/*.py
+
+include setup.py
+include MANIFEST.in
+include LICENSE
+include README.md
